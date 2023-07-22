@@ -33,3 +33,15 @@ Visual Grounding (VG) aims at localizing target objects from an image based on g
 
 
 ![teaser](./assets/IR-VG.png)
+
+
+## Citation
+If you think Tube-Link is helpful in your research, please consider referring Tube-Link:
+```bibtex
+@article{li2023,
+  title={Iterative Robust Visual Grounding with Masked Reference based Centerpoint Supervision},
+  author={Li, Menghao and Wang, Chunlei and Feng, Wenquan and Lyu, Shuchang and Cheng, Guangliang and Li, Xiangtai and Liu, Binghao and Zhao, Qi},
+  journal={arXiv pre-print},
+  year={2023},
+}
+```
