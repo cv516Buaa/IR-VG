@@ -2,7 +2,6 @@
 <p align="center">
   <h1 align="center">Iterative Robust Visual Grounding with Masked Reference based Centerpoint Supervision</h1>
   <p align="center">
-    ICCV, 2023
     <br />
     <strong>Menghao Li</strong></a>
     ·
