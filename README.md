@@ -1,6 +1,7 @@
 <br />
 <p align="center">
   <h1 align="center">Iterative Robust Visual Grounding with Masked Reference based Centerpoint Supervision</h1>
+  <p align="center">ICCV Workshop
   <p align="center">
     <br />
     <strong>Menghao Li</strong></a>
