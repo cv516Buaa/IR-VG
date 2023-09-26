@@ -36,8 +36,8 @@ Visual Grounding (VG) aims at localizing target objects from an image based on g
 
 ## TODO
 - [x] Release training and inference codes
-- [x] Release Part of DATA
-- [ ] Release All DATA
+- [x] Release PART OF DATASET
+- [ ] Release ALL DATASET
 
 ## IR-VG Dataset
 * `OV-VG`:  | [Baidu Drive(pw: irvg)](). |  [Google Drive]() |
