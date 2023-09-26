@@ -25,7 +25,7 @@
 
 ## Highlight!!!!
 
-**The code will be released.**
+IR-VG: Iterative Robust Visual Grounding
 
 ## Abstract
 
@@ -34,6 +34,13 @@ Visual Grounding (VG) aims at localizing target objects from an image based on g
 
 ![teaser](./assets/IR-VG.png)
 
+## TODO
+- [x] Release training and inference codes
+- [x] Release Part of DATA
+- [ ] Release All DATA
+
+## IR-VG Dataset
+* `OV-VG`:  | [Baidu Drive(pw: irvg)](). |  [Google Drive]() |
 
 ## Citation
 If you think Tube-Link is helpful in your research, please consider referring Tube-Link:
