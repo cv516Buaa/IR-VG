@@ -56,7 +56,7 @@ If you think Tube-Link is helpful in your research, please consider referring Tu
 @article{li2023,
   title={Iterative Robust Visual Grounding with Masked Reference based Centerpoint Supervision},
   author={Li, Menghao and Wang, Chunlei and Feng, Wenquan and Lyu, Shuchang and Cheng, Guangliang and Li, Xiangtai and Liu, Binghao and Zhao, Qi},
-  journal={arXiv pre-print},
+  journal={arXiv preprint arXiv:2307.12392},
   year={2023},
 }
 ```
