@@ -40,7 +40,7 @@ Visual Grounding (VG) aims at localizing target objects from an image based on g
 - [ ] Release ALL DATASET
 
 ## IR-VG Dataset
-* `OV-VG`:  | [Baidu Drive(pw: irvg)](). |  [Google Drive]() |
+* `IR-VG`:  | [Baidu Drive(pw: irvg)](). |  [Google Drive]() |
 
 ## Citation
 If you think Tube-Link is helpful in your research, please consider referring Tube-Link:
